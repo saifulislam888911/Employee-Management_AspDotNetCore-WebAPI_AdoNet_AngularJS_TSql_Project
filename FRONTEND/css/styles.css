@@ -93,6 +93,7 @@ a:hover {
 .add-new-btn:hover {
   background: #005ecb;
   transform: translateY(-1px);
+  color: #ffffff;
 }
 .add-new-btn:active {
   transform: translateY(0);
